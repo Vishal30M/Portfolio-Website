@@ -146,7 +146,7 @@ Give a ⭐️ if you like this project!
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
+Many thanks to Microverse for teaching me all I know about programming. I also want to thank to my Brother Clinton Younge for his help, advice and encouragement to press onward through the tough times.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
