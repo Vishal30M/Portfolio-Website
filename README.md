@@ -34,7 +34,7 @@
 
 # 📖 [Portfolio-Website] <a name="about-project"></a>
 
->In this project, I set up a "Hello Microverse" repository. No complex coding was required for this exercise. My goal was to master all of the tools and best practices I learned about in previous steps. 
+>In this project, I set up a "Portfolio-Website" repository. I used Html and CSS to create this. My goal was to create a mobile version portfolio website.
 
 
 
