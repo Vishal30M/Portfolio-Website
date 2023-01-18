@@ -672,3 +672,82 @@ header nav div .menu-bar {
   background: #e5e5e5;
   color: #5e6c84;
 }
+
+.contact-form {
+  width: 375px;
+  height: 779px;
+  padding-top: 103px;
+  background: #6070ff;
+  background-image: url(image/contact\ form\ shapes-mobile@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  align-items: center;
+  color: #fff;
+  border-top-left-radius: 70px;
+  display: inline-block;
+}
+
+.contact-form h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  font-family: 'poppins', sans-serif;
+}
+
+.contact-form p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  font-family: 'poppins', sans-serif;
+}
+
+input[type=text] {
+  height: 48px;
+  width: 327px;
+  left: 0;
+  top: 0;
+  border-radius: 8px;
+  border: 1px solid #cfd8dc;
+  margin-bottom: 20px;
+}
+
+input[type=email] {
+  height: 48px;
+  width: 327px;
+  left: 0;
+  top: 0;
+  border-radius: 8px;
+  border: 1px solid #cfd8dc;
+  margin-bottom: 18px;
+}
+
+textarea {
+  height: 170px;
+  width: 327px;
+  left: 0;
+  top: 0;
+  border-radius: 8px;
+  border: 1px solid #cfd8dc;
+  margin-bottom: 22px;
+}
+
+input[type=submit] {
+  height: 48px;
+  width: 140px;
+  left: 24px;
+  top: 5317px;
+  border-radius: 8px;
+  padding: 12px 16px 12px 16px;
+  color: #6070ff;
+  border: 1px solid #cfd8dc;
+  float: left;
+  margin-left: 24px;
+}
+
+input[type=submit]:hover {
+  background-color: #6070ff;
+  color: #fff;
+}
